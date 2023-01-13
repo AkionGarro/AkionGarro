@@ -63,13 +63,7 @@
       <div align="center"
     </p>
     
-<a href="https://github.com/AkionGarro?tab=repositories">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkionGarro&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Akion's favorite languages" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkionGarro&count_private=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkionGarro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-<a href="https://github.com/AkionGarro">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=AkionGarro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
