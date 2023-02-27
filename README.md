@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer  | Web Development | Research Student at CGLABTEC | VR & AR<br><br>Computing Engineering student at the Costa Rica Institute of Technology,<br>passionate about technology and eager to learn more and more<br>about the world of programming.
+Full Stack Developer  | Web Development | Research Student at CGLABTEC | VR & AR<br><br>Computing Engineering student at the Costa Rica Institute of Technology,passionate about technology and eager to learn more and more<br>about the world of programming.
 
 
 ## 🌐 Socials:
